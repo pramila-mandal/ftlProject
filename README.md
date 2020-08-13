@@ -12,7 +12,6 @@ Prject for ftl using django
 2. Current external hosted website:
   Go to http://pramilamandal.pythonanywhere.com/admin/
   Add users and their respective activites
-  
   View the json visit: http://pramilamandal.pythonanywhere.com/activity/
  
 3. View json via api
